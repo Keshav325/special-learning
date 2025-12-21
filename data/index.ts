@@ -86,7 +86,7 @@ export const projects = [
     des: "A hands-on approach to learning, designed for blind children",
     img: "/p2.svg",
     iconLists: [],
-    link: "https://speciallearn2.netlify.app/",
+    link: "hhttps://vision-audio-guide.lovable.app",
   },
    {
     id: 3,
@@ -94,7 +94,7 @@ export const projects = [
     des: "A hands-on approach to learning, designed for deaf children",
     img: "/p5.svg",
     iconLists: [],
-    link: "https://speciallearn3.netlify.app/",
+    link: "https://sign-learn-live.lovable.app",
   },
   
   
