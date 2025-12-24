@@ -86,7 +86,7 @@ export const projects = [
     des: "A hands-on approach to learning, designed for blind children",
     img: "/p2.svg",
     iconLists: [],
-    link: "hhttps://vision-audio-guide.lovable.app",
+    link: "https://vision-audio-guide.lovable.app",
   },
    {
     id: 3,
